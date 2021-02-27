@@ -11,6 +11,9 @@
 To use the Minimal theme:
 
 1. Add the following to your site's `_config.yml`:
+# Header 1 
+## Header 2
+### Header 3
 
     ```yml
     theme: jekyll-theme-minimal
