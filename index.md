@@ -4,10 +4,11 @@ layout: default
 
 # About Me
 
-Hi! I am Abhik, currently a software engineer in New York City. 
-I graduated from Carnegie Mellon Univeristy in 2016 and have been at Bloomberg LP ever since, working in the Trading & Analytics Engineering department!
+Hi! I am Abhik and I am a software engineer. 
+I live in New York City and work for Bloomberg LP in the Trading & Analytics Engineering department.
 
 ## My Interests
+
 
 
 
