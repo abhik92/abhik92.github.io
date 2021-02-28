@@ -19,5 +19,4 @@ layout: default
 
 [Follow me here for more pictures!](http://www.instagram.com/a6h1k92/)\
 
-
 [back](./)
