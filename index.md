@@ -25,8 +25,8 @@ If not a software engineer, would have tried applying for a sports statistician 
 
 ## Also see
 
-[LinkedIn](https://www.linkedin.com/in/abhik-mondal/)\
-[Instagram](https://www.instagram.com/a6h1k92/)\
+[LinkedIn](www.linkedin.com/in/abhik-mondal)\
+[Instagram](www.instagram.com/a6h1k92/)\
 Contact me at abhik.mondal1992@gmail.com
 
 <!---
