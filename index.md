@@ -12,7 +12,7 @@ Completed my Bachelors in Computer Science from the Indian Institute Of Technolo
 
 ## What am I good at
 
-Experienced with building large scale microservices-based applications and distrbuted systems. My recent hands-on experience has been in C++, Python, Javascript, Kafka and RabbitMQ. I am good with numbers and remembering data.
+Experienced with building microservices-based applications and large scale distributed systems. My recent hands-on experience has been in C++, Python, Javascript, Kafka and RabbitMQ. I am good with numbers and remembering data.
 
 Have been an avid tennis fan since childhood and play in a few recreational leagues in New York while at the same time trying to better my skiing skills.
 
