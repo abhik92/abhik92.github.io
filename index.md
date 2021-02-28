@@ -23,6 +23,12 @@ Like collecting socks from different places I visit and have a dislocated middle
 
 If not a software engineer, would have tried applying for a sports statistician job. I once told an interviewer I remember all the tennis grand slam champions in the past 20 years, he picked a random grand slam tournament and year from the 90s and I got it right, still didn't the internship job!
 
+## Also see
+
+[LinkedIn](https://www.linkedin.com/in/abhik-mondal/)
+[Instagram](https://www.instagram.com/a6h1k92/)
+Contact me at abhik.mondal1992@gmail.com
+
 <!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Link to another page](./another-page.html).
