@@ -2,13 +2,25 @@
 layout: default
 ---
 
-# About Me
+# What you should know about me
 
-Hi! I am Abhik and I am a software engineer. 
-I live in New York City and work for Bloomberg LP in the Trading & Analytics Engineering department.
+Hello Hello! I am a Abhik, a Software Engineer living in New York City!
 
-## My Interests
+I am a twin, older than my sister by 2 minutes and speak a few languages including English, Hindi and Bengali.
 
+I like collecting socks from places I visit and have a dislocated middle finger which was never rectified since a field incident in 2007.
+
+If I wasn't good at designing and writing software, I would have tried applying for a sports statistician job because I am good with numbers and remembering data.
+
+I once told an interviewer I remember all the tennis grand slam champions in the past 20 years, he picked a random year from the 90s and I got it right, still didn't the job.
+
+## Where did I study
+
+I completed my Bachelors in Computer Science from the Indian Institute Of Technology, Madras in India in 2015 and then got my Masters in Computer Science from Carnegie Mellon Univerity in 2016.
+
+## What am I good at
+
+I am an avid tennis fan and play in a few recreational leagues. I am trying to get better at skiing. 
 
 
 
