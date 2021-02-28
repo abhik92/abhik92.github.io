@@ -12,14 +12,14 @@ Completed my Bachelors in Computer Science from the Indian Institute Of Technolo
 
 ## What am I good at
 
-Experienced with building microservices-based applications and large scale distributed systems. My recent hands-on experience has been in C++, Python, Javascript, Kafka and RabbitMQ. I am good with numbers and remembering data.
+Experienced with building microservices-based applications and large scale distributed systems. My recent hands-on experience has been in programming technologies like C++, Python, Javascript, Kafka and RabbitMQ. I am good with numbers and remembering data.
 
 Have been an avid tennis fan since childhood and play in a few recreational leagues in New York while at the same time trying to better my skiing skills.
 
 ## What you should know more about me
 I am a twin, older than my sister by 2 minutes and speak a few languages including English, Hindi and Bengali.
 
-Like collecting socks from different places I visit and have a dislocated middle finger which was never rectified since a field incident in 2007.
+Like collecting socks from different places I visit and have a dislocated and functional middle finger which was never rectified since a field incident in 2007.
 
 If not a software engineer, would have tried applying for a sports statistician job. I once told an interviewer I remember all the tennis grand slam champions in the past 20 years, he picked a random grand slam tournament and year from the 90s and I got it right, still didn't the internship job!
 
