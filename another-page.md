@@ -17,6 +17,6 @@ layout: default
 ### Some more water in US Virgin Islands
 ![Wimbledon](/assets/img/usvi.jpg)
 
-[Follow me here for more pictures!](http://www.instagram.com/a6h1k92/)\
+[Follow me here for more pictures!](http://www.instagram.com/a6h1k92/)
 
 [back](./)
