@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Camped 16 hours to get to central court at Wimbledon 2019
+### Camped 16 hours to get to center court at Wimbledon 2019
 ![Wimbledon](/assets/img/wimbledon.jpg)
 
 ### Hiked to 400ft falls in Maui, Hawaii
