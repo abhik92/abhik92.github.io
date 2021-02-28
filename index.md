@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# What you should know about me
+## What you should know about me
 
 Hello Hello! I am a Abhik, a Software Engineer living in New York City!
 
@@ -20,7 +20,8 @@ I completed my Bachelors in Computer Science from the Indian Institute Of Techno
 
 ## What am I good at
 
-I am an avid tennis fan and play in a few recreational leagues. I am trying to get better at skiing. 
+I am experienced with building large scale microservices-based applications and distrbuted systems.
+Not tech related, I am an avid tennis fan and play in a few recreational leagues while at the same time trying to better my skiing skills.
 
 
 
