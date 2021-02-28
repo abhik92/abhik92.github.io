@@ -2,6 +2,15 @@
 layout: default
 ---
 
+# About Me
+
+Hi! I am Abhik, currently a software engineer in New York City. 
+I graduated from Carnegie Mellon Univeristy in 2016 and have been at Bloomberg LP ever since, working in the Trading & Analytics Engineering department!
+
+## My Interests
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
